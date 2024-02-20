@@ -2,3 +2,4 @@
 Hello GIT
 Hello local PC
 rep_2
+hello Git conflict
